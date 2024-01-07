@@ -1,3 +1,4 @@
 # Stopwatch App
- -JS
- -Tailwind CSS
+
+ - JS
+ - Tailwind CSS
