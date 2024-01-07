@@ -40,5 +40,5 @@ function watchStop() {
 function resetWatch() {
   clearInterval(timer);
   [seconds, minutes, hours] = [0,0,0];
-  displayTime.InnerHTML = "00 : 00 : 00"
+  displayTime.innerHTML = "00 : 00 : 00";
 }
